@@ -1,5 +1,3 @@
-# Apm
+# Product list
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.1.
-
-
+A list where you can add different products, with an image (or without), a maximum of five stars rating, and a unique code. You can also filter your products in the search bar.
